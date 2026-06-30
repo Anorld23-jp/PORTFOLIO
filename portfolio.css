@@ -1,0 +1,54 @@
+nav {
+    background-color: white;
+    display: flex;
+    gap: 13px;
+    align-items: center;
+    padding: 30px 80;
+    margin-top: -30px;
+    color: black;
+    font-size: 40px;
+}
+
+.pen{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    align-items: end ;
+    font-size: 20px;
+    margin-left: 280px;
+    padding: 10px;
+    /* margin-top: -80px; */
+}
+.pen1{
+    color: white;
+    background-color: blueviolet;
+    padding: 15px;
+
+    
+}
+.ben{
+    font-size: 30px;
+    
+}
+.ben p{
+    font-size: 25px;
+}
+.pics{
+    justify-content: flex-end;
+    display: flex;
+    padding: 5px;
+}
+.box{
+    display: flex;
+  align-items: center;
+  background: white;
+  gap: 40px;
+  margin-top: 10px;
+  
+}
+.box1{
+    background-color: rgb(225, 203, 245);
+    padding: 50px;
+    height: 50px;
+    align-items: center;
+}
